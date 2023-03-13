@@ -1,2 +1,2 @@
 # ResturantsBackEnd
-Building BackEnd for Restaurants . APIs,login,register, databases,Encryption keys(JWT).
+Building BackEnd for Restaurants using NodeJS. includes:APIs,login,register, databases,Encryption keys(JWT).
